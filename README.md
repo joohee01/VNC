@@ -2,7 +2,7 @@
 
 ### 라즈베리파이 설정 변경
 ```
-sudo raspi config
+sudo raspi-config
 ```
 
 ### 라즈베리파이에서 vnc 연결
